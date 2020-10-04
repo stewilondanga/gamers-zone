@@ -413,7 +413,7 @@ a {
   transition: ease-out 0.3s 0.1s;
 }
 
-/*.link-effect-10 a span::before {
+.link-effect-10 a span::before {
   height: 100%;
   width: 2px;
   background: white;
@@ -430,7 +430,8 @@ a {
   -webkit-transition: 0.3s;
   transition: 0.3s;
 }
-.link-effect-10 a span::after {
+
+/*.link-effect-10 a span::after {
   height: 100%;
   width: 2px;
   background: white;
