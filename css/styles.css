@@ -496,14 +496,14 @@ a {
   transform: scaleX(1);
 }
 
-/*.link-effect-10 a:hover span::before, .link-effect-10 a:hover span::after {
+.link-effect-10 a:hover span::before, .link-effect-10 a:hover span::after {
   -moz-transform: scaleY(1);
   -ms-transform: scaleY(1);
   -webkit-transform: scaleY(1);
   transform: scaleY(1);
 }
 
-.link-effect-11 a {
+/*.link-effect-11 a {
   color: #797878;
   margin: 0 20px;
   padding: 10px;
