@@ -261,12 +261,13 @@ a {
   opacity: 0;
 }
 
-/*.link-effect-7 {
+.link-effect-7 {
   -moz-perspective: 900px;
   -webkit-perspective: 900px;
   perspective: 900px;
 }
-.link-effect-7 a {
+
+/*.link-effect-7 a {
   color: rgba(0, 0, 0, 0.4);
   font-weight: 700;
   text-shadow: none;
