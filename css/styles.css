@@ -245,7 +245,7 @@ a {
   margin: 0 20px;
 }
 
-/*.link-effect-6 a::before {
+.link-effect-6 a::before {
   color: #797878;
   content: attr(data-hover);
   position: absolute;
@@ -253,7 +253,7 @@ a {
   -moz-transition: -moz-transform 0.3s, opacity 0.3s;
   transition: transform 0.3s, opacity 0.3s;
 }
-.link-effect-6 a:hover::before {
+/*.link-effect-6 a:hover::before {
   -webkit-transform: scale(0.9);
   -moz-transform: scale(0.9);
   transform: scale(0.9);
