@@ -352,12 +352,13 @@ a {
   color: white;
 }
 
-/*.link-effect-8 a:hover::before {
+.link-effect-8 a:hover::before {
   visibility: visible;
   top: 100%;
   background: white;
 }
-.link-effect-8 a:hover::after {
+
+/*.link-effect-8 a:hover::after {
   visibility: visible;
   top: 0;
   background: white;
