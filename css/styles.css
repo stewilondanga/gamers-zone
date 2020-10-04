@@ -278,7 +278,7 @@ a {
   transition: 0.3s;
 }
 
-/*.link-effect-7 a::before {
+.link-effect-7 a::before {
   color: white;
   content: attr(data-hover);
   position: absolute;
@@ -294,7 +294,8 @@ a {
   -webkit-transform-style: preserve-3d;
   transform-style: preserve-3d;
 }
-.link-effect-7 a:hover {
+
+/*.link-effect-7 a:hover {
   color: #797878;
 }
 .link-effect-7 a:hover::before {
