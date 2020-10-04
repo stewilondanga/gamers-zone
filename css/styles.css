@@ -122,7 +122,7 @@ a {
   font-weight: 400;
 }
 
-/*.link-effect-2 a span {
+.link-effect-2 a span {
   position: relative;
   display: inline-block;
   -moz-transition: 0.3s;
@@ -130,7 +130,8 @@ a {
   -webkit-transition: 0.3s;
   transition: 0.3s;
 }
-.link-effect-2 a span::before {
+
+/*.link-effect-2 a span::before {
   color: white;
   position: absolute;
   top: 100%;
