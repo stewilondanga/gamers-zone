@@ -150,14 +150,15 @@ a {
   transform: translateY(-100%);
 }
 
-/*.link-effect-3 a {
+.link-effect-3 a {
   padding: 10px 0;
   margin: 0 20px;
   color: #797878;
   text-shadow: none;
   position: relative;
 }
-.link-effect-3 a::before {
+
+/*.link-effect-3 a::before {
   position: absolute;
   top: 0;
   left: 0;
