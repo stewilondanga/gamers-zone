@@ -449,7 +449,7 @@ a {
   transition: 0.3s;
 }
 
-/*.link-effect-10 a::before {
+.link-effect-10 a::before {
   height: 2px;
   width: 100%;
   background: white;
@@ -466,7 +466,8 @@ a {
   -webkit-transition: 0.3s;
   transition: 0.3s;
 }
-.link-effect-10 a::after {
+
+/*.link-effect-10 a::after {
   height: 2px;
   width: 100%;
   background: white;
