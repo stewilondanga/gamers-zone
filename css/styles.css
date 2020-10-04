@@ -700,13 +700,14 @@ a {
   color: white;
 }
 
-/*.link-effect-12 a:hover::before, .link-effect-12 a:hover::after {
+.link-effect-12 a:hover::before, .link-effect-12 a:hover::after {
   -moz-transform: translateX(0);
   -ms-transform: translateX(0);
   -webkit-transform: translateX(0);
   transform: translateX(0);
 }
-.link-effect-12 a:hover span::before, .link-effect-12 a:hover span::after {
+
+/*.link-effect-12 a:hover span::before, .link-effect-12 a:hover span::after {
   -moz-transform: translateX(0);
   -ms-transform: translateX(0);
   -webkit-transform: translateX(0);
