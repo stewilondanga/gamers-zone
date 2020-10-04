@@ -903,12 +903,13 @@ a {
   color: white;
 }
 
-/*.link-effect-14 a:hover::before {
+.link-effect-14 a:hover::before {
   opacity: 1;
   right: 5px;
   top: 5px;
 }
-.link-effect-14 a:hover::after {
+
+/*.link-effect-14 a:hover::after {
   opacity: 1;
   left: 5px;
   bottom: 5px;
