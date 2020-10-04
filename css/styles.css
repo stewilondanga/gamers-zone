@@ -21,7 +21,7 @@ a {
   text-decoration: none;
 }
 
-/*.links {
+.links {
   *zoom: 1;
   padding: 50px;
   -moz-box-sizing: border-box;
@@ -30,7 +30,8 @@ a {
   text-align: center;
   background: #313131;
 }
-.links:before, .links:after {
+
+/*.links:before, .links:after {
   content: "";
   display: table;
 }
