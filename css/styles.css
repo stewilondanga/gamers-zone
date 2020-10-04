@@ -110,10 +110,11 @@ a {
 }
 
 /* Effect 5: same word slide in */
-/*.link-effect-2 {
+.link-effect-2 {
   overflow: hidden;
 }
-.link-effect-2 a {
+
+/*.link-effect-2 a {
   overflow: hidden;
   padding: 20px;
   height: 1em;
