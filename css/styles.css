@@ -306,7 +306,7 @@ a {
   transform: translateY(22px) rotateX(-90deg);
 }
 
-/*.link-effect-8 a {
+.link-effect-8 a {
   color: #797878;
   margin: 0 20px;
   padding: 5px 0;
@@ -317,7 +317,8 @@ a {
   -webkit-transition-delay: 0.1s;
   transition: ease-out 0.3s 0.1s;
 }
-.link-effect-8 a::before {
+
+/*.link-effect-8 a::before {
   height: 2px;
   width: 100%;
   background: #797878;
