@@ -199,11 +199,11 @@ a {
   transition: max-height 0.5s;
 }
 
-/*.link-effect-4 a:hover::before {
+.link-effect-4 a:hover::before {
   max-height: 100%;
 }
 
-.link-effect-5 a {
+/*.link-effect-5 a {
   padding: 0 10px;
   margin: 0 20px;
   color: #797878;
