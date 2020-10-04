@@ -295,10 +295,11 @@ a {
   transform-style: preserve-3d;
 }
 
-/*.link-effect-7 a:hover {
+.link-effect-7 a:hover {
   color: #797878;
 }
-.link-effect-7 a:hover::before {
+
+/*.link-effect-7 a:hover::before {
   -moz-transform: translateY(22px) rotateX(-90deg);
   -ms-transform: translateY(22px) rotateX(-90deg);
   -webkit-transform: translateY(22px) rotateX(-90deg);
