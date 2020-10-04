@@ -517,7 +517,7 @@ a {
   transition: ease-out 0.3s 0.1s;
 }
 
-/*.link-effect-11 a span::before {
+.link-effect-11 a span::before {
   width: 100%;
   height: 2px;
   background: white;
@@ -534,7 +534,8 @@ a {
   -webkit-transform: translateX(-100%);
   transform: translateX(-100%);
 }
-.link-effect-11 a span::after {
+
+/*.link-effect-11 a span::after {
   width: 100%;
   height: 2px;
   background: white;
