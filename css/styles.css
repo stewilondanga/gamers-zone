@@ -831,7 +831,7 @@ a {
   transition: ease-out 0.3s;
 }
 
-/*.link-effect-14 a span::before {
+.link-effect-14 a span::before {
   width: 5px;
   height: 5px;
   background: transparent;
@@ -847,7 +847,8 @@ a {
   transition: 0.3s;
   opacity: 0;
 }
-.link-effect-14 a span::after {
+
+/*.link-effect-14 a span::after {
   width: 5px;
   height: 5px;
   background: transparent;
