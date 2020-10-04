@@ -40,10 +40,11 @@ a {
   clear: both;
 }
 
-/*.link-effect-1 {
+.link-effect-1 {
   text-align: center;
 }
-.link-effect-1 a {
+
+/*.link-effect-1 a {
   -moz-perspective: 900px;
   -webkit-perspective: 900px;
   perspective: 900px;
