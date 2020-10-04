@@ -358,13 +358,13 @@ a {
   background: white;
 }
 
-/*.link-effect-8 a:hover::after {
+.link-effect-8 a:hover::after {
   visibility: visible;
   top: 0;
   background: white;
 }
 
-.link-effect-9 a {
+/*.link-effect-9 a {
   color: #797878;
   margin: 0 20px;
   padding: 10px 0;
