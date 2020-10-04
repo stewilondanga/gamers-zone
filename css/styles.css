@@ -105,7 +105,7 @@ a {
   transform: rotateX(90deg) translateY(-22px);
 }
 
-/*.link-effect-1 a:hover span::before, .link-effect-1 a:focus span::before {
+.link-effect-1 a:hover span::before, .link-effect-1 a:focus span::before {
   background: #666464;
 }
 
