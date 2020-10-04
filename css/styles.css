@@ -553,7 +553,7 @@ a {
   transform: translateX(100%);
 }
 
-/*.link-effect-11 a::before {
+.link-effect-11 a::before {
   width: 2px;
   height: 100%;
   background: white;
@@ -570,7 +570,8 @@ a {
   -webkit-transition: 0.3s;
   transition: 0.3s;
 }
-.link-effect-11 a::after {
+
+/*.link-effect-11 a::after {
   width: 2px;
   height: 100%;
   background: white;
