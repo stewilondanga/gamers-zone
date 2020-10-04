@@ -401,7 +401,7 @@ a {
   transform: scaleX(1);
 }
 
-/*.link-effect-10 a {
+.link-effect-10 a {
   color: #797878;
   margin: 0 20px;
   padding: 10px;
@@ -412,7 +412,8 @@ a {
   -webkit-transition-delay: 0.1s;
   transition: ease-out 0.3s 0.1s;
 }
-.link-effect-10 a span::before {
+
+/*.link-effect-10 a span::before {
   height: 100%;
   width: 2px;
   background: white;
