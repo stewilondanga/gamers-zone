@@ -677,7 +677,7 @@ a {
   transition: 0.1s 0.3s;
 }
 
-/*.link-effect-12 a::after {
+.link-effect-12 a::after {
   width: 2px;
   height: 100%;
   background: white;
@@ -695,7 +695,8 @@ a {
   -webkit-transition-delay: 0.1s;
   transition: 0.1s 0.1s;
 }
-.link-effect-12 a:hover {
+
+/*.link-effect-12 a:hover {
   color: white;
 }
 .link-effect-12 a:hover::before, .link-effect-12 a:hover::after {
