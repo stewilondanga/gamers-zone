@@ -600,14 +600,14 @@ a {
   transform: translateX(0);
 }
 
-/*.link-effect-11 a:hover span::before, .link-effect-11 a:hover span::after {
+.link-effect-11 a:hover span::before, .link-effect-11 a:hover span::after {
   -moz-transform: translateX(0);
   -ms-transform: translateX(0);
   -webkit-transform: translateX(0);
   transform: translateX(0);
 }
 
-.link-effect-12 a {
+/*.link-effect-12 a {
   color: #797878;
   margin: 0 20px;
   padding: 10px;
