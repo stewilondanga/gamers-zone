@@ -816,7 +816,7 @@ a {
   transition: ease-out 0.3s 0.3s;
 }
 
-/*.link-effect-13 a span::before {
+.link-effect-13 a span::before {
   width: 100%;
   height: 2px;
   background: white;
@@ -834,7 +834,7 @@ a {
   transition: 0.3s;
 }
 
-.link-effect-13 a span::after {
+/*.link-effect-13 a span::after {
   width: 100%;
   height: 2px;
   background: white;
