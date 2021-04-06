@@ -870,7 +870,7 @@ a {
   transition: 0.3s;
 }
 
-/*.link-effect-13 a::after {
+.link-effect-13 a::after {
   width: 2px;
   height: 100%;
   background: white;
@@ -888,7 +888,7 @@ a {
   transition: 0.3s;
 }
 
-.link-effect-13 a:hover {
+/*.link-effect-13 a:hover {
   color: white;
 }
 
