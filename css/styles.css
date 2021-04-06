@@ -1003,13 +1003,13 @@ a {
   bottom: 5px;
 }
 
-/*.link-effect-14 a:hover span::before {
+.link-effect-14 a:hover span::before {
   opacity: 1;
   left: 5px;
   top: 5px;
 }
 
-.link-effect-14 a:hover span::after {
+/*.link-effect-14 a:hover span::after {
   opacity: 1;
   right: 5px;
   bottom: 5px;
