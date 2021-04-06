@@ -434,11 +434,11 @@ a {
   transition: 0.3s;
 }
 
-/*.link-effect-8 a:hover {
+.link-effect-8 a:hover {
   color: white;
 }
 
-.link-effect-8 a:hover::before {
+/*.link-effect-8 a:hover::before {
   visibility: visible;
   top: 100%;
   background: white;
