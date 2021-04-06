@@ -297,7 +297,7 @@ a {
   position: relative;
 }
 
-/*.link-effect-5 a::before {
+.link-effect-5 a::before {
   position: absolute;
   top: 0;
   left: 0;
@@ -316,7 +316,7 @@ a {
   opacity: 0;
 }
 
-.link-effect-5 a:hover::before {
+/*.link-effect-5 a:hover::before {
   -moz-transform: scale(1, 1);
   -ms-transform: scale(1, 1);
   -webkit-transform: scale(1, 1);
