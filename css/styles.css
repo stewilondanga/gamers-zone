@@ -385,14 +385,14 @@ a {
   color: #797878;
 }
 
-/*.link-effect-7 a:hover::before {
+.link-effect-7 a:hover::before {
   -moz-transform: translateY(22px) rotateX(-90deg);
   -ms-transform: translateY(22px) rotateX(-90deg);
   -webkit-transform: translateY(22px) rotateX(-90deg);
   transform: translateY(22px) rotateX(-90deg);
 }
 
-.link-effect-8 a {
+/*.link-effect-8 a {
   color: #797878;
   margin: 0 20px;
   padding: 5px 0;
