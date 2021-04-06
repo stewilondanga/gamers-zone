@@ -746,7 +746,7 @@ a {
   transform: translateX(100%);
 }
 
-/*.link-effect-12 a::before {
+.link-effect-12 a::before {
   width: 2px;
   height: 100%;
   background: white;
@@ -765,7 +765,7 @@ a {
   transition: 0.1s 0.3s;
 }
 
-.link-effect-12 a::after {
+/*.link-effect-12 a::after {
   width: 2px;
   height: 100%;
   background: white;
