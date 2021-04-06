@@ -140,7 +140,7 @@ a {
   line-height: 44px;
 }
 
-/*.link-effect-1 a span {
+.link-effect-1 a span {
   position: relative;
   padding: 0 14px;
   background: #797878;
@@ -162,7 +162,7 @@ a {
   transform-style: preserve-3d;
 }
 
-.link-effect-1 a span::before {
+/*.link-effect-1 a span::before {
   position: absolute;
   top: 100%;
   left: 0;
