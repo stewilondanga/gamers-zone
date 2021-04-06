@@ -353,7 +353,7 @@ a {
   perspective: 900px;
 }
 
-/*.link-effect-7 a {
+.link-effect-7 a {
   color: rgba(0, 0, 0, 0.4);
   font-weight: 700;
   text-shadow: none;
@@ -364,7 +364,7 @@ a {
   transition: 0.3s;
 }
 
-.link-effect-7 a::before {
+/*.link-effect-7 a::before {
   color: white;
   content: attr(data-hover);
   position: absolute;
