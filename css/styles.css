@@ -316,7 +316,7 @@ a {
   opacity: 0;
 }
 
-/*.link-effect-5 a:hover::before {
+.link-effect-5 a:hover::before {
   -moz-transform: scale(1, 1);
   -ms-transform: scale(1, 1);
   -webkit-transform: scale(1, 1);
@@ -324,7 +324,7 @@ a {
   opacity: 1;
 }
 
-.link-effect-6 a {
+/*.link-effect-6 a {
   color: rgba(0, 0, 0, 0.4);
   font-weight: 700;
   text-shadow: none;
