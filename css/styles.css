@@ -970,7 +970,7 @@ a {
   opacity: 0;
 }
 
-/*.link-effect-14 a::after {
+.link-effect-14 a::after {
   width: 5px;
   height: 5px;
   background: transparent;
@@ -987,7 +987,7 @@ a {
   opacity: 0;
 }
 
-.link-effect-14 a:hover {
+/*.link-effect-14 a:hover {
   color: white;
 }
 
