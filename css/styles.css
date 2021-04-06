@@ -191,12 +191,12 @@ a {
   transform: rotateX(90deg) translateY(-22px);
 }
 
-/*.link-effect-1 a:hover span::before, .link-effect-1 a:focus span::before {
+.link-effect-1 a:hover span::before, .link-effect-1 a:focus span::before {
   background: #666464;
 }
 
 /* Effect 5: same word slide in */
-.link-effect-2 {
+/*.link-effect-2 {
   overflow: hidden;
 }
 
