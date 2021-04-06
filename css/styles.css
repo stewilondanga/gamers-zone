@@ -101,13 +101,13 @@
   transition-delay: 0.4s;
 }
 
-/*a {
+a {
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 20px;
   text-decoration: none;
 }
 
-.links {
+/*.links {
   *zoom: 1;
   padding: 50px;
   -moz-box-sizing: border-box;
