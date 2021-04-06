@@ -450,7 +450,7 @@ a {
   background: white;
 }
 
-/*.link-effect-9 a {
+.link-effect-9 a {
   color: #797878;
   margin: 0 20px;
   padding: 10px 0;
@@ -462,7 +462,7 @@ a {
   transition: ease-out 0.3s 0.1s;
 }
 
-.link-effect-9 a::after {
+/*.link-effect-9 a::after {
   height: 2px;
   width: 100%;
   background: white;
