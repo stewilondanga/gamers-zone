@@ -289,7 +289,7 @@ a {
   max-height: 100%;
 }
 
-/*.link-effect-5 a {
+.link-effect-5 a {
   padding: 0 10px;
   margin: 0 20px;
   color: #797878;
@@ -297,7 +297,7 @@ a {
   position: relative;
 }
 
-.link-effect-5 a::before {
+/*.link-effect-5 a::before {
   position: absolute;
   top: 0;
   left: 0;
