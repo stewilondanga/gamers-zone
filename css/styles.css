@@ -404,7 +404,7 @@ a {
   transition: ease-out 0.3s 0.1s;
 }
 
-/*.link-effect-8 a::before {
+.link-effect-8 a::before {
   height: 2px;
   width: 100%;
   background: #797878;
@@ -419,7 +419,7 @@ a {
   transition: 0.3s;
 }
 
-.link-effect-8 a::after {
+/*.link-effect-8 a::after {
   height: 2px;
   width: 100%;
   background: #797878;
