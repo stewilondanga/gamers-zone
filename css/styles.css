@@ -340,14 +340,14 @@ a {
   transition: transform 0.3s, opacity 0.3s;
 }
 
-/*.link-effect-6 a:hover::before {
+.link-effect-6 a:hover::before {
   -webkit-transform: scale(0.9);
   -moz-transform: scale(0.9);
   transform: scale(0.9);
   opacity: 0;
 }
 
-.link-effect-7 {
+/*.link-effect-7 {
   -moz-perspective: 900px;
   -webkit-perspective: 900px;
   perspective: 900px;
