@@ -575,14 +575,14 @@ a {
   color: white;
 }
 
-/*.link-effect-10 a:hover::before, .link-effect-10 a:hover::after {
+.link-effect-10 a:hover::before, .link-effect-10 a:hover::after {
   -moz-transform: scaleX(1);
   -ms-transform: scaleX(1);
   -webkit-transform: scaleX(1);
   transform: scaleX(1);
 }
 
-.link-effect-10 a:hover span::before, .link-effect-10 a:hover span::after {
+/*.link-effect-10 a:hover span::before, .link-effect-10 a:hover span::after {
   -moz-transform: scaleY(1);
   -ms-transform: scaleY(1);
   -webkit-transform: scaleY(1);
