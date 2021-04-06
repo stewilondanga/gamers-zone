@@ -217,7 +217,7 @@ a {
   transition: 0.3s;
 }
 
-/*.link-effect-2 a span::before {
+.link-effect-2 a span::before {
   color: white;
   position: absolute;
   top: 100%;
@@ -229,7 +229,7 @@ a {
   transform: translate3d(0, 0, 0);
 }
 
-.link-effect-2 a:hover span {
+/*.link-effect-2 a:hover span {
   -moz-transform: translateY(-100%);
   -ms-transform: translateY(-100%);
   -webkit-transform: translateY(-100%);
