@@ -122,11 +122,11 @@ a {
   display: table;
 }
 
-/*.links:after {
+.links:after {
   clear: both;
 }
 
-.link-effect-1 {
+/*.link-effect-1 {
   text-align: center;
 }
 
