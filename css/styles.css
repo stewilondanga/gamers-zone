@@ -480,14 +480,14 @@ a {
   transition: 0.3s;
 }
 
-/*.link-effect-9 a:hover::after {
+.link-effect-9 a:hover::after {
   -moz-transform: scaleX(1);
   -ms-transform: scaleX(1);
   -webkit-transform: scaleX(1);
   transform: scaleX(1);
 }
 
-.link-effect-10 a {
+/*.link-effect-10 a {
   color: #797878;
   margin: 0 20px;
   padding: 10px;
