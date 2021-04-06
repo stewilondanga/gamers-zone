@@ -987,11 +987,11 @@ a {
   opacity: 0;
 }
 
-/*.link-effect-14 a:hover {
+.link-effect-14 a:hover {
   color: white;
 }
 
-.link-effect-14 a:hover::before {
+/*.link-effect-14 a:hover::before {
   opacity: 1;
   right: 5px;
   top: 5px;
