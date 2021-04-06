@@ -162,7 +162,7 @@ a {
   transform-style: preserve-3d;
 }
 
-/*.link-effect-1 a span::before {
+.link-effect-1 a span::before {
   position: absolute;
   top: 100%;
   left: 0;
@@ -184,7 +184,7 @@ a {
   transform-origin: 50% 0 50%;
 }
 
-.link-effect-1 a:hover span, .link-effect-1 a:focus span {
+/*.link-effect-1 a:hover span, .link-effect-1 a:focus span {
   -moz-transform: rotateX(90deg) translateY(-22px);
   -ms-transform: rotateX(90deg) translateY(-22px);
   -webkit-transform: rotateX(90deg) translateY(-22px);
