@@ -130,7 +130,7 @@ a {
   text-align: center;
 }
 
-/*.link-effect-1 a {
+.link-effect-1 a {
   -moz-perspective: 900px;
   -webkit-perspective: 900px;
   perspective: 900px;
@@ -140,7 +140,7 @@ a {
   line-height: 44px;
 }
 
-.link-effect-1 a span {
+/*.link-effect-1 a span {
   position: relative;
   padding: 0 14px;
   background: #797878;
