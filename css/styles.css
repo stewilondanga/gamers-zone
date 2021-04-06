@@ -657,7 +657,7 @@ a {
   transition: 0.3s;
 }
 
-/*.link-effect-11 a::after {
+.link-effect-11 a::after {
   width: 2px;
   height: 100%;
   background: white;
@@ -675,7 +675,7 @@ a {
   transition: 0.3s;
 }
 
-.link-effect-11 a:hover {
+/*.link-effect-11 a:hover {
   color: white;
 }
 
