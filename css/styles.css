@@ -117,12 +117,12 @@ a {
   background: #313131;
 }
 
-/*.links:before, .links:after {
+.links:before, .links:after {
   content: "";
   display: table;
 }
 
-.links:after {
+/*.links:after {
   clear: both;
 }
 
