@@ -571,11 +571,11 @@ a {
   transition: 0.3s;
 }
 
-/*.link-effect-10 a:hover {
+.link-effect-10 a:hover {
   color: white;
 }
 
-.link-effect-10 a:hover::before, .link-effect-10 a:hover::after {
+/*.link-effect-10 a:hover::before, .link-effect-10 a:hover::after {
   -moz-transform: scaleX(1);
   -ms-transform: scaleX(1);
   -webkit-transform: scaleX(1);
