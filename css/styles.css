@@ -184,14 +184,14 @@ a {
   transform-origin: 50% 0 50%;
 }
 
-/*.link-effect-1 a:hover span, .link-effect-1 a:focus span {
+.link-effect-1 a:hover span, .link-effect-1 a:focus span {
   -moz-transform: rotateX(90deg) translateY(-22px);
   -ms-transform: rotateX(90deg) translateY(-22px);
   -webkit-transform: rotateX(90deg) translateY(-22px);
   transform: rotateX(90deg) translateY(-22px);
 }
 
-.link-effect-1 a:hover span::before, .link-effect-1 a:focus span::before {
+/*.link-effect-1 a:hover span::before, .link-effect-1 a:focus span::before {
   background: #666464;
 }
 
