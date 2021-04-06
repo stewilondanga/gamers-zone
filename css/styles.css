@@ -462,7 +462,7 @@ a {
   transition: ease-out 0.3s 0.1s;
 }
 
-/*.link-effect-9 a::after {
+.link-effect-9 a::after {
   height: 2px;
   width: 100%;
   background: white;
@@ -480,7 +480,7 @@ a {
   transition: 0.3s;
 }
 
-.link-effect-9 a:hover::after {
+/*.link-effect-9 a:hover::after {
   -moz-transform: scaleX(1);
   -ms-transform: scaleX(1);
   -webkit-transform: scaleX(1);
