@@ -200,7 +200,7 @@ a {
   overflow: hidden;
 }
 
-/*.link-effect-2 a {
+.link-effect-2 a {
   overflow: hidden;
   padding: 20px;
   height: 1em;
@@ -208,7 +208,7 @@ a {
   font-weight: 400;
 }
 
-.link-effect-2 a span {
+/*.link-effect-2 a span {
   position: relative;
   display: inline-block;
   -moz-transition: 0.3s;
