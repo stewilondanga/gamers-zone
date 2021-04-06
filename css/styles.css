@@ -906,7 +906,7 @@ a {
   transform: translateX(0);
 }
 
-/*.link-effect-14 a {
+.link-effect-14 a {
   color: #797878;
   margin: 0 20px;
   padding: 10px 20px;
@@ -919,7 +919,7 @@ a {
   transition: ease-out 0.3s;
 }
 
-.link-effect-14 a span::before {
+/*.link-effect-14 a span::before {
   width: 5px;
   height: 5px;
   background: transparent;
